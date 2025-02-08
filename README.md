@@ -13,15 +13,13 @@
 ## Установка обновления
 
 <!--Пользовательская документация-->
-## Документация
-Пользовательскую документацию можно получить по [этой ссылке](./docs/ru/index.md).
-
-<!--Релизы программы-->
-## Релизы программы
-
-[RUSTORE](https://www.rustore.ru/catalog/app/ru.avtonalivator.avtonalivator)
-
+## Установить Android приложение
+[RUSTORE](https://www.rustore.ru/catalog/app/ru.avtonalivator.avtonalivator) / 
 [GOOGLE PLAY](https://play.google.com/store/apps/details?id=ru.avtonalivator.avtonalivator)
+
+
+<!--Релизы -->
+## Релизы прошивки
 
 | Название | Описание                                                                               |
 |----------|----------------------------------------------------------------------------------------|
