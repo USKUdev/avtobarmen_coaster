@@ -10,13 +10,18 @@
 
 ![Logotype](./docs/coaster.jpg)
 
-## Установка обновления
+## Установка обновления прошивки в подставку
 
-<!--Пользовательская документация-->
-## Установить Android приложение
-[RUSTORE](https://www.rustore.ru/catalog/app/ru.avtonalivator.avtonalivator) / 
-[GOOGLE PLAY](https://play.google.com/store/apps/details?id=ru.avtonalivator.avtonalivator)
+В ближайшее время появится видео
 
+<!--Совместимость -->
+## Совместимость железа, прошивки и приложения
+
+| Подставка железо   | Подставка прошивка  | Андроид приложение                                        |
+|--------------------|---------------------------------------------------------------------------------|
+| 1.0.0              | 1.0.0               | 1.0.0                                                     |
+| 1.0.0              | 1.1.0 - 1.25.0      | 1.1.0 - 1.4.2                                             |
+| 1.0.0              | 1.26.0              | 1.4.3                                                     |
 
 <!--Релизы -->
 ## Релизы прошивки
@@ -30,8 +35,18 @@
 | 1.21.0   | Исправленны мелкие баги. Оптимизация для Android приложения                            |
 | 1.26.0   | Полноценный релиз. Изменен протокол сообщений. Все режимы подсветок, меньше задержек   |
 
-[Релизы программы]: https://github.com/USKUdev/avtobarmen_coaster/releases
+История изменений [здесь](./docs/ru/index.md).
 
+
+
+<!--Android приложение-->
+## Установить Android приложение
+Установить последние версии: 
+[GOOGLE PLAY](https://play.google.com/store/apps/details?id=ru.avtonalivator.avtonalivator)
+ / 
+[RUSTORE](https://www.rustore.ru/catalog/app/ru.avtonalivator.avtonalivator)
+
+История изменений [здесь](./docs/ru/index.md).
 
 
 <!--Поддержка-->
