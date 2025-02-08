@@ -35,10 +35,6 @@
 
 <!--Android приложение-->
 ## Установить Android приложение
-Установить последние версии: 
-[GOOGLE PLAY](https://play.google.com/store/apps/details?id=ru.avtonalivator.avtonalivator)
- / 
-[RUSTORE](https://www.rustore.ru/catalog/app/ru.avtonalivator.avtonalivator)
 
 История изменений [здесь](./APK/CHANGELOG_APK.md).
 

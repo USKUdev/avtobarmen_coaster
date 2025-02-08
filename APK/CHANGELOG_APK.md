@@ -1,0 +1,18 @@
+## Установить последние версии: 
+
+[GOOGLE PLAY](https://play.google.com/store/apps/details?id=ru.avtonalivator.avtonalivator)
+ / 
+[RUSTORE](https://www.rustore.ru/catalog/app/ru.avtonalivator.avtonalivator)
+
+## 1.0.0
+Релиз
+
+## 1.4.0
+1. Добавлена база коктейлей
+
+2. Добавлены настройки яркости
+
+## 1.4.3
+1. Обновлены библиотеки для Google Play
+
+2. Убран запрос к GPS
