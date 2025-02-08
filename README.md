@@ -20,6 +20,7 @@
 ## Релизы программы
 
 [RUSTORE](https://www.rustore.ru/catalog/app/ru.avtonalivator.avtonalivator)
+
 [GOOGLE PLAY](https://play.google.com/store/apps/details?id=ru.avtonalivator.avtonalivator)
 
 | Название | Описание                                                                               |
