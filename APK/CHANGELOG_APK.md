@@ -8,7 +8,7 @@
 Релиз
 
 ## 1.4.0 
-[Скачать](./APK/BarmenCoaster 1.4.0.apk.zip)
+[Скачать](./APK/BarmenCoaster_1.4.0.apk.zip)
 
 1. Добавлена база коктейлей
 
