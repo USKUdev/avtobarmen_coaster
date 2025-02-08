@@ -19,6 +19,8 @@
 <!--Релизы программы-->
 ## Релизы программы
 
+[RUSTORE](https://www.rustore.ru/catalog/app/ru.avtonalivator.avtonalivator)
+[GOOGLE PLAY](https://play.google.com/store/apps/details?id=ru.avtonalivator.avtonalivator)
 
 | Название | Описание                                                                               |
 |----------|----------------------------------------------------------------------------------------|
@@ -30,6 +32,7 @@
 | 1.26.0   | Полноценный релиз. Изменен протокол сообщений. Все режимы подсветок, меньше задержек   |
 
 [Релизы программы]: https://github.com/USKUdev/avtobarmen_coaster/releases
+
 
 
 <!--Поддержка-->
