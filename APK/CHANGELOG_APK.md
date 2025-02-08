@@ -1,4 +1,4 @@
-## Установить последние версии: 
+## Установить последнюю версию: 
 
 [GOOGLE PLAY](https://play.google.com/store/apps/details?id=ru.avtonalivator.avtonalivator)
  / 
@@ -7,7 +7,7 @@
 ## 1.0.0
 Релиз
 
-## 1.4.0
+## 1.4.0 [здесь](./APK/BarmenCoaster 1.4.0.apk.zip)
 1. Добавлена база коктейлей
 
 2. Добавлены настройки яркости
