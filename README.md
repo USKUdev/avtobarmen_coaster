@@ -26,12 +26,12 @@
 <!--Релиз железа -->
 ## Релизы железа
 
-История изменений [здесь](./DES/_CHANGELOG.md).
+История изменений [здесь](./DES/CHANGELOG_DES.md).
 
 <!--Релиз прошивки -->
 ## Релизы прошивки
 
-История изменений [здесь](./HEX/_CHANGELOG.md).
+История изменений [здесь](./HEX/CHANGELOG_HEX.md).
 
 <!--Android приложение-->
 ## Установить Android приложение
@@ -40,7 +40,7 @@
  / 
 [RUSTORE](https://www.rustore.ru/catalog/app/ru.avtonalivator.avtonalivator)
 
-История изменений [здесь](./APK/_CHANGELOG.md).
+История изменений [здесь](./APK/CHANGELOG_APK.md).
 
 
 <!--Поддержка-->
